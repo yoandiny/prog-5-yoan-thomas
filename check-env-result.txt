@@ -1,0 +1,11 @@
+PROG5 — vérification de l'environnement
+Date    : 2026-11-24 21:39
+Système : Linux x86_64
+
+[OK] git 2.47.3 (yoandiny <yoandiny14@gmail.com>)
+[OK] java 21.0.11, mvn 3.9.9[m
+[OK] node v24.18.0, npm 11.16.0
+[OK] php 8.4.28, composer 2.11.3, symfony
+[OK] docker 29.6.2, image postgres:17
+
+Environnement prêt pour PROG5
